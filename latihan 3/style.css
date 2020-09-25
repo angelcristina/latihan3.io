@@ -1,0 +1,83 @@
+body{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 0;
+}
+
+.table1{
+    width: 350px;
+    margin-left: 10px;
+    text-align: left;
+    border: 1px solid black;
+}
+.td1{
+    border: 1px solid black;
+}
+
+.th1{
+    background-color: grey;
+    color: white;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.box{
+    background-color: grey;
+    color: white;
+    font-size: 30px;
+    width: 350px;
+    padding: 5px;
+}
+.box1{
+    background-color: orchid;
+    width: 250px;
+    margin-top: -100px;
+    padding: 5px;
+}
+
+.trans{
+    color: green;
+    font-size: 30px;
+}
+
+.isitrans{
+    float: left;
+    margin-left: -300px;
+    font-size: 15px;
+}
+
+hr{
+    margin-top: -20px;
+    background-color: green;
+    height: 5px;
+    float: left;
+    width: 300px;
+}
+.hr2{
+    background-color: blue;
+    height: 3px;
+    width: 400px;
+    float: right;
+}
+
+.kanan{
+    float: right;
+    margin-top: -340px;
+}
+
+.table2{
+    float: right;
+    margin-top: -20px;
+    width: 400px;
+    
+}
+.tr2{
+    padding-bottom: 20px;
+}
+
+i{
+    color: white;
+    background-color: blue;
+    padding: 1px;
+    margin-right: 5px;
+}
